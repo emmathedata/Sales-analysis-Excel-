@@ -5,7 +5,7 @@
 ## Project Overview
 - An electronics store needs to increase its profits
 - A KPI is found that will allow to increase profits at the lowest cost.
-- Sales were evaluated by product, city, time and over time.
+- Sales were evaluated by product, city, states and months.
 - This analysis was done on a database with 180,000+ values using Excel only 
 (My laptop was not happy about this :P)
 
