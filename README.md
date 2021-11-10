@@ -1,4 +1,4 @@
-# Sales-analysis-Excel-
+# Sales-analysis-Excel
 
 # Sales analysis (Excel)
 
@@ -25,7 +25,7 @@ The activities performed were the following:
 - Eliminate duplicates and cells that did not correspond to the data.
 - Eliminate or correct missing values
 - Adjust the dates because they did not have the proper format.
-- Create the time, city and state columns for the analysis.
+- Created city and state columns for the analysis.
 
 ![Cleaned Data](images/Cleaned_data.PNG)
 
