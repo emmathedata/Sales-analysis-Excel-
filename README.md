@@ -16,7 +16,7 @@
 - What is the best time to sell our products?
 
 ## Cleaning and preparation:
-The data shows the sales of an electronics store, you can see the raw data in this **[Link]**
+The data shows the sales of an electronics store, you can see the raw data in this 
 As you can see in the image below, the format of the data was not appropriate for the analysis, so it had to be cleaned and prepared. 
 
 ![Raw Data](images/Rawdata.PNG)
